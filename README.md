@@ -1,5 +1,5 @@
 # [DecodeMTL](http://www.decodemtl.com)
-## Montreal's Leading Coding Bootcamp
+## Montreal's Leading Coding Bootcamp =
 
 The code for the landing page is open through this repository, and the page is hosted on [Github Pages](https://pages.github.com/).
 
