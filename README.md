@@ -15,4 +15,4 @@ Technologies used:
 * [jekyll](http://jekyllrb.com/)
 
 
-Built using the awesome [Cloud9 IDE](http://c9.io/)
+Built using the awesoooome [Cloud9 IDE](http://c9.io/)
